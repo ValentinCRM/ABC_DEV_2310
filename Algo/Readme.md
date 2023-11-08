@@ -1,1 +1,1 @@
-Répertoire pour les Exercises d'Algorithme 
+Répertoire pour les Exercises d'Algorithmie
